@@ -1,5 +1,5 @@
-# lettuce
-LETTUCE
+# LETTUCE
+Lasy Emerald Tools Trying to Understand Complete Existence
 
 [LETTUCE download page](https://www.curseforge.com/minecraft/mc-mods/lettuce)
 
